@@ -49,8 +49,8 @@ Comunicação técnica · Pensamento analítico · Visão sistêmica · Proativi
 ### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats-nu-seven-59.vercel.app/api?username=rochamoraes&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-stats-nu-seven-59.vercel.app/api/top-langs/?username=rochamoraes&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats-nu-seven-59.vercel.app/api?username=rochamoraes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+<img src="https://github-readme-stats-nu-seven-59.vercel.app/api/top-langs/?username=rochamoraes&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 </div>
 
 ---
