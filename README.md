@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o César Moraes 👋
+# Oi, meu nome é César Augusto 😁
 
 **Senior QA Engineer · Automação, APIs & SQL · Backend Engineering**
 📍 Brasília, DF
