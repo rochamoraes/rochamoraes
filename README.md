@@ -1,6 +1,8 @@
 <div align="center">
 
-# Oi, meu nome é César Augusto 😁
+# Oi, sou o César 😁
+
+**Quinze anos desconfiando de software. Nunca me arrependi.**
 
 **Senior QA Engineer · Automação, APIs & SQL · Backend Engineering**
 📍 Brasília, DF
