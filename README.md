@@ -77,6 +77,15 @@ Atualmente aprofundando minha atuação em desenvolvimento backend com Node.js, 
 
 ---
 
+### 🎓 Formação
+
+- **Bacharelado em Engenharia de Software** · Universidade Católica de Brasília · 2025 – 2029 *(em andamento)*
+- **MBA em IA, Data Science e Big Data para Negócios** · Ibmec · 2022 – 2023
+- **Tecnólogo em Banco de Dados** · UNINTER Centro Universitário Internacional · 2020 – 2022
+- **Tecnólogo em Análise e Desenvolvimento de Sistemas** · Universidade Positivo (UP) · 2012 – 2014
+
+---
+
 ### 🧩 Competências
 
 Liderança em qualidade · Comunicação técnica · Pensamento analítico · Visão sistêmica · Colaboração com times multidisciplinares · Proatividade · Aprendizado contínuo
