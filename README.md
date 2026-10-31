@@ -1,106 +1,92 @@
+<!-- Perfil GitHub · César Moraes · as imagens animadas ficam em assets/ -->
+
 <div align="center">
-
-# Oi, sou o César 😁
-
-**Quinze anos desconfiando de software. Nunca me arrependi.**
-
-**Senior QA Engineer · Automação, APIs, SQL & Segurança · Backend Engineering**
-📍 Brasília, DF
-
-[![Site](https://img.shields.io/badge/Site-rochamoraes.digital-5eead4?style=flat&logo=googlechrome&logoColor=white)](https://rochamoraes.digital)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rochamoraes-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rochamoraes)
-[![E-mail](https://img.shields.io/badge/E--mail-contato%40rochamoraes.digital-5eead4?style=flat&logo=maildotru&logoColor=white)](mailto:contato@rochamoraes.digital)
-[![GitHub](https://img.shields.io/badge/GitHub-rochamoraes-181717?style=flat&logo=github&logoColor=white)](https://github.com/rochamoraes)
-
+  <img src="assets/hero.svg" width="100%" alt="César Moraes: Senior QA Engineer. Quality Engineering, automação, APIs, SQL e desenvolvimento backend, com mais de 15 anos em tecnologia." />
 </div>
 
----
+<p align="center">
+  <a href="https://github.com/rochamoraes"><img src="assets/social-github.svg" width="88" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/rochamoraes"><img src="assets/social-linkedin.svg" width="88" alt="LinkedIn" /></a>
+  <a href="https://rochamoraes.digital"><img src="assets/social-site.svg" width="88" alt="Site" /></a>
+  <a href="mailto:contato@rochamoraes.digital"><img src="assets/social-email.svg" width="88" alt="E-mail" /></a>
+</p>
 
-### 🎯 Sobre mim
+<div align="center">
+  <img src="assets/stats.svg" width="100%" alt="15+ anos em tecnologia unindo QA e engenharia · 4 formações acadêmicas · qualidade de ponta a ponta · foco atual em backend com Node.js, TypeScript e SQL." />
+</div>
 
-Senior QA Engineer com mais de 15 anos de experiência em tecnologia, unindo Quality Engineering e Engenharia de Software. Hoje lidero a qualidade de aplicações web, da estratégia de testes à validação em produção, incluindo testes de segurança.
+## `01` &nbsp;Sobre mim
 
-Trajetória multidisciplinar, com passagens por desenvolvimento e suporte, Business Intelligence, infraestrutura de TI, automação de processos e modelagem de dados, o que me dá visão sistêmica sobre arquitetura, integrações e fluxo de dados.
+Sou **Senior QA Engineer** com mais de **15 anos de experiência** em tecnologia, unindo **Quality Engineering** e **Engenharia de Software**. Hoje lidero a qualidade de aplicações web, da estratégia de testes à validação em produção, incluindo **testes de segurança**.
 
-Atualmente aprofundando minha atuação em desenvolvimento backend com Node.js, TypeScript, SQL e arquitetura de APIs.
+Tenho uma trajetória multidisciplinar, com passagens por desenvolvimento e suporte, **Business Intelligence**, infraestrutura de TI, automação de processos e modelagem de dados, o que me dá uma visão sistêmica sobre arquitetura, integrações e fluxo de dados. Atualmente aprofundo minha atuação em **desenvolvimento backend** com **Node.js, TypeScript, SQL e arquitetura de APIs**.
+
+> **Minha visão:** sistemas bem projetados nascem de decisões técnicas conscientes, validações sólidas e arquitetura bem estruturada.
 
 🌐 Conheça mais em **[rochamoraes.digital](https://rochamoraes.digital)**.
 
----
+<details>
+<summary><b>About me in English</b></summary>
+<br />
 
-### 🔧 Stack Tecnológico
+I'm a **Senior QA Engineer** with 15+ years in tech, bridging **Quality Engineering** and **Software Engineering**. I lead quality for web applications end to end — from test strategy to production validation, including security testing. My background spans development, support, Business Intelligence, IT infrastructure, process automation and data modeling, which gives me a systemic view of architecture, integrations and data flow. I'm currently deepening my **backend** work with **Node.js, TypeScript, SQL and API design**.
 
-**Backend**
+</details>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-6DA34D?style=flat)
+## `02` &nbsp;Áreas de atuação
 
-**Qualidade & Testes**
+Trabalho onde qualidade, dados e engenharia se encontram: da estratégia de testes à validação em produção, passando por automação, APIs e segurança.
 
-![Test Automation](https://img.shields.io/badge/Test%20Automation-25A162?style=flat)
-![API Testing](https://img.shields.io/badge/API%20Testing-FF6C37?style=flat&logo=postman&logoColor=white)
-![Security Testing](https://img.shields.io/badge/Security%20Testing-OWASP-000000?style=flat)
+<p align="center">
+  <img src="assets/area-qa.svg" width="49%" alt="Quality Engineering: estratégia de testes, qualidade de ponta a ponta e validação em produção." />
+  <img src="assets/area-automacao.svg" width="49%" alt="Automação de testes: suítes web e mobile com Playwright, Selenium, Appium e TestComplete." />
+  <img src="assets/area-apis.svg" width="49%" alt="APIs e Backend: desenvolvimento e testes de APIs REST com Node.js, TypeScript e Postman." />
+  <img src="assets/area-seguranca.svg" width="49%" alt="Segurança de aplicações: testes de segurança orientados a OWASP em aplicações web." />
+  <img src="assets/area-dados.svg" width="49%" alt="Dados e SQL: modelagem e consultas em SQL Server e PostgreSQL, BI e fluxo de dados." />
+  <img src="assets/area-visao.svg" width="49%" alt="Visão sistêmica: passagens por desenvolvimento, suporte, infraestrutura e automação de processos." />
+</p>
 
----
+## `03` &nbsp;Ferramentas do dia a dia
 
-### 🛠️ Ferramentas
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,postgres,mysql,docker&perline=6" width="70%" alt="Node.js, TypeScript, JavaScript, PostgreSQL, MySQL e Docker" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postman,selenium,git,github,gitlab,jira,bash,vscode&perline=8" width="90%" alt="Postman, Selenium, Git, GitHub, GitLab, Jira, Bash e VS Code" />
+</p>
 
-**Automação de testes**
+<p align="center"><sub>e também <b>Playwright · Appium · TestComplete · Insomnia · Apache JMeter · SQL Server · Chrome DevTools · Freshdesk · OWASP</b></sub></p>
 
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-![Appium](https://img.shields.io/badge/Appium-662CB4?style=flat&logo=appium&logoColor=white)
-![TestComplete](https://img.shields.io/badge/TestComplete-1D9E74?style=flat)
+## `04` &nbsp;Formação
 
-**APIs e desempenho**
+| Curso | Instituição | Período |
+| :--- | :--- | :--- |
+| **Bacharelado em Engenharia de Software** | Universidade Católica de Brasília | 2025 – 2029 *(em andamento)* |
+| **MBA em IA, Data Science e Big Data para Negócios** | Ibmec | 2022 – 2023 |
+| **Tecnólogo em Banco de Dados** | UNINTER Centro Universitário Internacional | 2020 – 2022 |
+| **Tecnólogo em Análise e Desenvolvimento de Sistemas** | Universidade Positivo (UP) | 2012 – 2014 |
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white)
-![Apache JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=flat&logo=apachejmeter&logoColor=white)
+<p align="center"><sub><b>Competências:</b> Liderança em qualidade · Comunicação técnica · Pensamento analítico · Visão sistêmica · Colaboração com times multidisciplinares · Proatividade · Aprendizado contínuo</sub></p>
 
-**Dados, infra e depuração**
-
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=flat&logo=googlechrome&logoColor=white)
-
-**Versionamento e gestão**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![Freshdesk](https://img.shields.io/badge/Freshdesk-25C16F?style=flat)
-
----
-
-### 🎓 Formação
-
-- **Bacharelado em Engenharia de Software** · Universidade Católica de Brasília · 2025 – 2029 *(em andamento)*
-- **MBA em IA, Data Science e Big Data para Negócios** · Ibmec · 2022 – 2023
-- **Tecnólogo em Banco de Dados** · UNINTER Centro Universitário Internacional · 2020 – 2022
-- **Tecnólogo em Análise e Desenvolvimento de Sistemas** · Universidade Positivo (UP) · 2012 – 2014
-
----
-
-### 🧩 Competências
-
-Liderança em qualidade · Comunicação técnica · Pensamento analítico · Visão sistêmica · Colaboração com times multidisciplinares · Proatividade · Aprendizado contínuo
-
----
-
-### 📊 GitHub Stats
+## `05` &nbsp;Atividade
 
 <div align="center">
-<img src="https://github-readme-stats-nu-seven-59.vercel.app/api?username=rochamoraes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://github-readme-stats-nu-seven-59.vercel.app/api/top-langs/?username=rochamoraes&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats-nu-seven-59.vercel.app/api?username=rochamoraes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=22d3ee&icon_color=8b5cf6&text_color=a3aed0&bg_color=0F1733" height="165" alt="Estatísticas do GitHub de César Moraes" />
+  <img src="https://github-readme-stats-nu-seven-59.vercel.app/api/top-langs/?username=rochamoraes&layout=compact&theme=tokyonight&hide_border=true&count_private=true&title_color=22d3ee&text_color=a3aed0&bg_color=0F1733" height="165" alt="Linguagens mais usadas" />
 </div>
 
----
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=rochamoraes&locale=pt_BR&background=0F1733&border=C7D2FE22&stroke=C7D2FE22&ring=8B5CF6&fire=EC4899&currStreakNum=EEF2FF&sideNums=EEF2FF&currStreakLabel=22D3EE&sideLabels=A3AED0&dates=6B7699&border_radius=22&hide_border=true&card_width=846" width="100%" alt="Total de contribuições, sequência atual e maior sequência de César Moraes no GitHub" />
+</div>
+
+## `06` &nbsp;Vamos colaborar?
+
+Gosto de trocar ideias sobre **qualidade de software, automação de testes, APIs, SQL, backend e segurança de aplicações**. Tem um projeto, um desafio de qualidade ou quer conversar? Me chama no [LinkedIn](https://www.linkedin.com/in/rochamoraes) ou por [e-mail](mailto:contato@rochamoraes.digital).
+
+<br />
 
 <div align="center">
-<i>"Sistemas bem projetados nascem de decisões técnicas conscientes, validações sólidas e arquitetura bem estruturada."</i>
+  <img src="assets/footer.svg" width="100%" alt="Obrigado pela visita. Feito com café, testes bem escritos e atenção aos detalhes." />
+  <br /><br />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rochamoraes.rochamoraes&left_text=visitas&left_color=%230f1733&right_color=%238b5cf6" alt="Contador de visitas ao perfil" />
 </div>
